@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "92269116234",
+    "project_id": "horgaszujbolt-da3df",
+    "storage_bucket": "horgaszujbolt-da3df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92269116234:android:9cb6041dc859ba44b11fb3",
+        "android_client_info": {
+          "package_name": "com.example.horgaszujbolt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAwHhMob2GhWgsjCNQ4oH_LsBQasD3xXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

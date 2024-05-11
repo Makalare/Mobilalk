@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Horgaszujbolt</string>
+    <string name="loginAsGuest">Bejelentkezés vendégkent</string>
+    <string name="product_description">Leírás\n</string>
+    <string name="item_placeholder">place holder</string>
+    <string name="item_info_placeholder">item info</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="loginWithGoogle">Bejelentkezés Google-val</string>
+    <string name="imageTitle">Cím</string>
+    <string name="description">leírás</string>
+    <string name="price">ár</string>
+    <string name="search">Search</string>
+    <string name="rod">Rod</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="kit">kit\n</string>
+    <string name="log_out">Kijelentkezés</string>
+
+
+    <string-array name="shopping_item_names">
+        <item>DAIWA AIRITY X45 MATCH 14 </item>
+        <item>GURU N-GAUGE WAGGLER </item>
+        <item>BY DÖME TF SILVER CARP FLOAT</item>
+        <item>PRESTON IGNITION 330 PELLET WAGGLER</item>
+        <item>PRESTON SUPERA X 13FT WAGGLER</item>
+        <item>TUBERTINI T-MATCH III </item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>218 g</item>
+        <item>15 g</item>
+        <item>250 g</item>
+        <item>100 g</item>
+        <item>10 g</item>
+        <item>30 g</item>
+    </string-array>
+    <array name="shopping_item_images">
+        <item>@drawable/egy</item>
+        <item>@drawable/ketto</item>
+        <item>@drawable/harom</item>
+        <item>@drawable/negy</item>
+        <item>@drawable/ot</item>
+        <item>@drawable/hat</item>
+    </array>
+    <array name="shopping_item_price">
+        <item>4.27 m</item>
+        <item>3.00 m</item>
+        <item>3.60 m</item>
+        <item>3.30 m</item>
+        <item>3.90 m</item>
+        <item>4.50 m</item>
+    </array>
+
+
+    <string-array name="product_desc">
+        <item>BENZAR MIX CONCOURSE METHOD MIX CSILI-KOLBÁSZ 800GR</item>
+        <item>BENZAR MIX CONCOURSE METHOD MIX MÁJ 800GR</item>
+        <item>DYNAMITE BAITS CARP TEC BOJLI 20MM SALMON 900GR</item>
+        <item>DYNAMITE BAITS CARP TEC BOJLI 20MM STRAWBERRY CREAM 900GR</item>
+        <item>BENZAR MIX CONCOURSE WAFTERS CSOKI-NARANCS 8-10MM</item>
+        <item>BENZAR MIX CONCOURSE WAFTERS EPER KRILL PINK 6MM</item>
+        <item>DAIWA N´ZON EVA 3 RÉSZES CSALIS SZETT XL</item>
+        <item>DAIWA N´ZON EVA 3 RÉSZES CSALIS SZETT XL FEDELES</item>
+    </string-array>
+
+    <string-array name="product_name">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>r</item>
+        <item>f</item>
+    </string-array>
+
+    <string-array name="product_price">
+        <item>3490 zz</item>
+        <item>3990 zz</item>
+        <item>1290 zz</item>
+        <item>1490 zz</item>
+        <item>1590 zz</item>
+        <item>1090 zz</item>
+        <item>12090 zz</item>
+        <item>9100 zz</item>
+    </string-array>
+
+    <array name="product_images">
+        <item>@drawable/eteto1</item>
+        <item>@drawable/eteto2</item>
+        <item>@drawable/bojli1</item>
+        <item>@drawable/bojli2</item>
+        <item>@drawable/csal1</item>
+        <item>@drawable/csali2</item>
+        <item>@drawable/doboz1</item>
+        <item>@drawable/doboz2</item>
+    </array>
+
+</resources>
+
